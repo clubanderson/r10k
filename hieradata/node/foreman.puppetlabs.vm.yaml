@@ -1,6 +1,4 @@
 ---
 classes:
-  - foreman
-foreman: true
-puppet: false
-foreman_proxy: false
+  - foreman::puppetmaster
+db_type: mysql
