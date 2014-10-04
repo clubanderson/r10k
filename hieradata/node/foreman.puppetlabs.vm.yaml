@@ -1,4 +1,6 @@
 ---
 classes:
-  - foreman::puppetmaster
-db_type: mysql
+  - foreman_installer
+foreman_installer::answers: answers.yaml
+#  - foreman::puppetmaster
+#db_type: mysql
