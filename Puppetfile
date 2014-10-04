@@ -8,4 +8,4 @@ mod "staging",
   :git => "git://github.com/nanliu/puppet-staging.git",
   :ref => "powershell"
 mod "notifyme",
-  :git => "git://github.com/clubanderson/notifications.git",
+  :git => "git://github.com/clubanderson/notifications.git"
