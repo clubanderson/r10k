@@ -1,2 +1,6 @@
 ---
-message: "This is a sample variable that came from a Hiera datasource - from the andrew environment"
+classes:
+  - foreman::params
+  - foreman::config::enc
+  - foreman::config::reports
+#message: "This is a sample variable that came from a Hiera datasource - from the andrew environment"
