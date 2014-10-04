@@ -9,7 +9,7 @@ mod "staging",
   :ref => "powershell"
 mod "notifyme",
   :git => "git://github.com/clubanderson/notifications.git"
-mod "foreman",
+mod "foreman-installer",
   :git => "git://github.com/theforeman/foreman-installer.git"
 mod "mcollective",
   :git => "git://github.com/puppetlabs/puppetlabs-mcollective.git"
