@@ -7,3 +7,5 @@ mod "razorsedge/vmwaretools", "4.7.0"
 mod "staging",
   :git => "git://github.com/nanliu/puppet-staging.git",
   :ref => "powershell"
+mod "notifyme",
+  :git => "git://github.com/clubanderson/notifications.git",
