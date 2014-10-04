@@ -43,7 +43,7 @@ node default {
 #  hiera_include ('classes')
   notify { "Hello from $::fqdn": }
   #include facts
-  notify { "Course name is ${puppetlabs_course}": }
+#  notify { "Course name is ${puppetlabs_course}": }
   #$message = hiera ('message')
   #notify { "message from hieradata lookup is ${message}": }
   #include hosts
