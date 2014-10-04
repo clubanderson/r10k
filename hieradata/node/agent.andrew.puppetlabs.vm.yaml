@@ -1,0 +1,5 @@
+---
+classes:
+  - notifyme
+notifyme::text: "hello world"
+#message: "This is a sample variable that came from a Hiera datasource - from the andrew environment"
