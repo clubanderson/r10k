@@ -1,4 +1,5 @@
 ---
+classes:
   - foreman
 foreman: true
 puppet: false
