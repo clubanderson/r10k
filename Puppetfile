@@ -10,7 +10,7 @@ mod "staging",
 mod "notifyme",
   :git => "git://github.com/clubanderson/notifications.git"
 mod "foreman",
-  :git => "git://github.com/theforeman/puppet.git"
+  :git => "git://github.com/theforeman/foreman-installer.git
 mod "mcollective",
   :git => "git://github.com/puppetlabs/puppetlabs-mcollective.git"
 mod "r10k",
