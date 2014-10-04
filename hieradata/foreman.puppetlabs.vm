@@ -1,0 +1,4 @@
+---
+foreman: true
+puppet: false
+foreman_proxy: false
